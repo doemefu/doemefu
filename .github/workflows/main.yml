@@ -33,13 +33,6 @@ jobs:
           config_octicon: yes
           config_timezone: Europe/Zurich
           #repositories_skipped:
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -65,7 +58,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_timezone: Europe/Paris
+          config_timezone: Europe/Zurich
 
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
@@ -76,5 +69,5 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
+          config_timezone: Europe/Zurich
 
