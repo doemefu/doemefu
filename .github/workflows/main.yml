@@ -42,12 +42,16 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+      - name: Most used Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 120
-          plugin_languages_analysis_timeout_repositories: 60
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_threshold: 2%
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
+          plugin_languages_limit: 8
+
