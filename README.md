@@ -82,8 +82,8 @@ I also spent a year as an engineer at **AMZ Racing** (ETH Zurich Formula Student
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doemefu&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doemefu&layout=compact&hide_border=true&theme=default&langs_count=6)
+<img src="./github-stats.svg" height="180" />
+<img src="./github-top-langs.svg" height="180" />
 
 ---
 
