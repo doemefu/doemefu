@@ -82,8 +82,8 @@ I also spent a year as an engineer at **AMZ Racing** (ETH Zurich Formula Student
 
 ## 📊 Stats
 
-<img src="./profile/github-stats.svg" height="180" />
-<img src="./profile/github-top-langs.svg" height="180" />
+<img src="profile/stats.svg" height="180" />
+<img src="profile/github-top-langs.svg" height="180" />
 
 ---
 
