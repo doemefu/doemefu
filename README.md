@@ -1,4 +1,5 @@
 # Hi, I'm Dominic 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominic_Furchert-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dominic-furchert)
 
 Software engineer with a background spanning embedded systems, enterprise Java, and mission-critical financial software. I bridge the gap between hardware and cloud — from microcontroller firmware to OAuth 2.1 microservices deployed on Kubernetes.
 
@@ -84,11 +85,3 @@ I also spent a year as an engineer at **AMZ Racing** (ETH Zurich Formula Student
 
 <img src="profile/stats.svg" height="180" />
 <img src="profile/top-langs.svg" height="180" />
-
----
-
-## 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominic_Furchert-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dominic-furchert)
-
-📍 Zurich, Switzerland
